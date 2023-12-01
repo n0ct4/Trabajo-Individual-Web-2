@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background-color: #282c34;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+header {
+  padding: 20px;
+  background-color: #b6b6b6; /* Dark gray for header */
+  color: white;
+}
+
+.navbar {
+  padding: 15px;
+  width: 100%;
+  height: 50px;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: #979696; /* Slightly darker gray for navbar */
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 30px;
+  padding-right: 50px;
+}
+
+.nav-item {
+  padding-right: 50px;
+}
+
+img {
+  max-width: 100%;
+  height: 600px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.imagen-discografia {
+  max-width: 100%;
+      max-height: 200px; /* Ajusta la altura máxima según tus preferencias */
+      border-radius: 5px;
+      margin-bottom: 20px;
+      object-fit: cover; 
+}
