@@ -5,6 +5,8 @@ body {
   color: #f2efe5; 
 }
 
+/* SECCION MAIN HOME */
+
 header {
   padding: 20px;
   background-color: #312F2C; 
@@ -77,6 +79,8 @@ img {
   object-fit: cover;
 }
 
+/* SECCION CONTACTO */
+
 .contacto-container {
   width: 60%;
   margin: auto;
@@ -120,3 +124,18 @@ img {
   border-color: #f8c1e1;
   color: #755540; 
 }
+
+/* SECCION SOBRE MI */
+
+.titulo-sobremi {
+  margin: 20px;
+  padding-top: 15px;
+}
+
+.sobremi-body {
+  margin: 20px;
+  padding-top: 10px;
+  width: 1000px;
+  font-size: 18px;
+}
+
