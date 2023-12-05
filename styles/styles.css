@@ -42,9 +42,9 @@ header {
   border: 2px solid #755540;
 }
 
-img {
+section img{
   max-width: 100%;
-  height: auto;
+  height: 500px;
   border-radius: 5px;
   margin-bottom: 20px;
   align-items: center;
@@ -55,10 +55,16 @@ img {
   font-size: 45px;
 }
 
+section p {
+  margin: 40px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
 .discografia-home {
   width: 90%;
   color: #f2efe5; 
-  background-color: #5947316e; 
+  background-color: #312F2C; 
   padding: 20px;
   margin-top: 80px;
   border-radius: 8px;
@@ -73,7 +79,7 @@ img {
 
 .imagen-discografia {
   max-width: 100%;
-  max-height: 200px;
+  max-height: 150px;
   border-radius: 5px;
   margin-bottom: 20px;
   object-fit: cover;
@@ -89,7 +95,7 @@ img {
   align-items: center;
   background-color: #f2efe5;
   padding: 20px;
-  margin-top: 100px;
+  margin-top: 50px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -127,6 +133,13 @@ img {
 
 /* SECCION SOBRE MI */
 
+.sobremi-container {
+  background-color: #f2efe5;
+  color: #312F2C;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 .titulo-sobremi {
   margin: 20px;
   padding-top: 15px;
@@ -135,7 +148,7 @@ img {
 .sobremi-body {
   margin: 20px;
   padding-top: 10px;
-  width: 1000px;
+  padding-bottom: 40px;
   font-size: 18px;
 }
 
