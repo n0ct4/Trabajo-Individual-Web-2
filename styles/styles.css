@@ -5,6 +5,20 @@ body {
   color: #f2efe5; 
 }
 
+
+.container-main-body {
+  background-color: #312F2C; 
+}
+
+.tecnologias-home img {
+  padding: 50px;
+  max-width: 100%;
+  max-height: 350px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  object-fit: cover;
+}
+
 /* SECCION MAIN HOME */
 
 header {
@@ -31,7 +45,7 @@ header {
 
 .nav-item {
   padding-right: 50px;
-  width: 180px;
+  width: 250px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -152,3 +166,51 @@ section p {
   font-size: 18px;
 }
 
+/* SECCION FII */
+
+    /* Estilos para la parte 1 */
+
+    .container-fundamentos_pt1 {
+      margin-bottom: 20px;
+  }
+
+
+
+  .container-fundamentos_pt1 ul {
+      list-style-type: none;
+      padding: 0;
+  }
+
+  .container-fundamentos_pt1 li {
+      margin-bottom: 8px;
+      padding-left: 20px;
+      position: relative;
+  }
+
+  .container-fundamentos_pt1 li:before {
+      
+      position: absolute;
+      left: 0;
+  }
+
+  /* Estilos para la parte 2 */
+
+  .container-fundamentos_pt2 {
+      margin-bottom: 20px;
+  }
+
+  .container-fundamentos_pt2 ul {
+      list-style-type: none;
+      padding: 0;
+  }
+
+  .container-fundamentos_pt2 li {
+      margin-bottom: 8px;
+      padding-left: 20px;
+      position: relative;
+  }
+
+  .container-fundamentos_pt2 li:before {
+      position: absolute;
+      left: 0;  
+  }
