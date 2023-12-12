@@ -271,10 +271,16 @@ section p {
 }
 
 .container-red_1 {
-  width: 90%;
+  width: 100%;
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px 0px 20px 50px;
   background-color: #312F2C;
   box-shadow: 10px 10px 40px 3px rgba(0, 0, 0, 0.75);
+  
+}
+
+.container-red_1 h4 {
+  padding: 30px;
+  border-top-style: solid;
 }
