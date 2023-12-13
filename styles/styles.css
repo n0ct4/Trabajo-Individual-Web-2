@@ -153,6 +153,10 @@ section p {
   color: #312F2C;
   border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  position: absolute;
+  top: 20%;
+  left: 10%;
 }
 
 .titulo-sobremi {
@@ -164,7 +168,7 @@ section p {
   margin: 20px;
   padding-top: 10px;
   padding-bottom: 40px;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .multimedia-sobremi {
@@ -226,7 +230,7 @@ section p {
   padding: 20px 0px 20px 50px;
   background-color: #312F2C;
   box-shadow: 10px 10px 40px 3px rgba(0, 0, 0, 0.75);
-
+  font-size: 18px;
 }
 
 .container-fundamentos_pt1 ul {
