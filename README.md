@@ -1,21 +1,18 @@
-# Trabajo-Individual-Web-2
-
-
 # Practica Web
 ### Miguel Ramirez Ochoa 1B
 
-Esta página web es un trabajo práctico para la asignatura Fundamentos de Ingeniería Informática en donde demuestro mis conocimientos adquiridos en clase y fuera de ella. El codigo se encuentra dentro de una carpeta raiz y a partir de eso de crearon subcarpetas con el distinto contenido de la pagina web, imagenes y subpaginas. 
+Esta página web es un trabajo práctico para la asignatura Fundamentos de Ingeniería Informática en donde demuestro mis conocimientos adquiridos en clase y fuera de ella. El código se encuentra dentro de una carpeta raíz y a partir de eso se crearon subcarpetas con el distinto contenido de la página web, imágenes y subpáginas. 
 
-Para mi pagina web utilice HTML para realizar la estructura de todo. Con CSS aplique diferentes estilos a cada cosa dentro de la pagina. Bootstrap me sirvio de ayuda para componentes como la Navbar y organizacion de el HTML. 
-Por otro lado utilice Google Fonts para elegir una tipografia agradable y no la que tiene HTML por defecto.
+Para mi práctica web utilicé HTML para realizar la estructura de todo. Con CSS apliqué diferentes estilos a cada elemento de la pagina. Bootstrap me sirvió de ayuda para componentes como la Navbar y organizacion de el HTML. 
+Por otro lado utilicé Google Fonts para elegir una tipografía agradable y no la que tiene HTML por defecto.
 
 
-A continuacion se hace referencia a las diferentes secciones de la pagina y que contienen:
+A continuación se hace referencia a las diferentes secciones de la página y que contienen:
 
 
 ### Secciones
 
-#### Fundamentos Ingenieria Informatica
+#### Fundamentos Ingeniería Informática
 - Contiene el contenido de la asignatura visto en el cuatrimestre. El Tema 4 - Software contiene un enlace que redirige a un PDF para profundizar sobre el tema.
 #### Contacto
 - Formulario de contacto con diferentes inputs.
